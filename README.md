@@ -2,7 +2,10 @@
 
 This project provides a data visualization interface for **graphlan_all_species**, implemented using HTML and JavaScript. It is designed to display key species-related data metrics in an intuitive format.
 
-Displayed content includes:
+## Visit 
+[https://hoshigawarei.github.io/graphlan_all_species/]
+
+## Displayed content includes:
 - **Species**: Species name
 - **SGB**: Species-level genome bin
 - **Relative abundance (%)**: Relative abundance (percentage)
@@ -17,7 +20,10 @@ Users can interact with the visualization to explore various species and their a
 
 该项目通过前端Web技术（基于HTML和JavaScript）展示了 **graphlan_all_species** 的数据可视化，旨在直观呈现物种与其相关的多项数据指标。
 
-显示内容包括:
+## 访问链接
+[https://hoshigawarei.github.io/graphlan_all_species/]
+
+## 显示内容包括:
 - **Species**: 物种名称
 - **SGB**: 物种分类群
 - **Relative abundance (%)**: 相对丰度（百分比）
