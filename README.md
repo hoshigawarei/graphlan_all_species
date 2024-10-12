@@ -16,6 +16,9 @@ This project provides a data visualization interface for **graphlan_all_species*
 
 Users can interact with the visualization to explore various species and their associated data metrics, facilitating in-depth analysis of species distribution and abundance across different dietary patterns.
 
+## Example Interface
+![img](img.png)
+
 ---------------------------------------------------------------------------------------------------------------------------
 
 该项目通过前端Web技术（基于HTML和JavaScript）展示了 **graphlan_all_species** 的数据可视化，旨在直观呈现物种与其相关的多项数据指标。
